@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.40dc3021.chunk.css",
+    "main.js": "/memory-card/static/js/main.dd1191f7.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.dd1191f7.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.06abf29f.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.06abf29f.js.map",
+    "static/js/2.49cadf42.chunk.js": "/memory-card/static/js/2.49cadf42.chunk.js",
+    "static/js/2.49cadf42.chunk.js.map": "/memory-card/static/js/2.49cadf42.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.40dc3021.chunk.css.map": "/memory-card/static/css/main.40dc3021.chunk.css.map",
+    "static/js/2.49cadf42.chunk.js.LICENSE.txt": "/memory-card/static/js/2.49cadf42.chunk.js.LICENSE.txt",
+    "static/media/Gengar.png": "/memory-card/static/media/Gengar.088ec117.png",
+    "static/media/Gyarados.png": "/memory-card/static/media/Gyarados.43ac7fb5.png",
+    "static/media/Jynx.png": "/memory-card/static/media/Jynx.bd40a751.png",
+    "static/media/Piplup.png": "/memory-card/static/media/Piplup.3e11ef07.png",
+    "static/media/abra.png": "/memory-card/static/media/abra.848d8380.png",
+    "static/media/bulbasaur.png": "/memory-card/static/media/bulbasaur.eb0825ae.png",
+    "static/media/charmander.png": "/memory-card/static/media/charmander.92e28544.png",
+    "static/media/eevee.png": "/memory-card/static/media/eevee.759e16dc.png",
+    "static/media/logo.70706317.png": "/memory-card/static/media/logo.70706317.png",
+    "static/media/mewtwo.png": "/memory-card/static/media/mewtwo.b23d2065.png",
+    "static/media/mime.png": "/memory-card/static/media/mime.130862c3.png",
+    "static/media/pikachu.png": "/memory-card/static/media/pikachu.d7db65ed.png",
+    "static/media/psyduck.png": "/memory-card/static/media/psyduck.687b63b9.png",
+    "static/media/snorlax.png": "/memory-card/static/media/snorlax.c2a6d6b1.png",
+    "static/media/squirtle.png": "/memory-card/static/media/squirtle.159645c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06abf29f.js",
+    "static/js/2.49cadf42.chunk.js",
+    "static/css/main.40dc3021.chunk.css",
+    "static/js/main.dd1191f7.chunk.js"
+  ]
+}
